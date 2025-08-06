@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+  <symbol id="data-view" viewBox="0 0 20 20">
+
+    <circle cx="6" cy="6" r="1.5"></circle>
+    <rect x="2" y="10" width="12" height="2" rx="1"></rect>
+    <rect x="2" y="14" width="8" height="2" rx="1"></rect>
+  </symbol>
+
+  <symbol id="more-vertical" viewBox="0 0 20 20">
+    <circle cx="10" cy="4" r="1.6"></circle>
+    <circle cx="10" cy="10" r="1.6"></circle>
+    <circle cx="10" cy="16" r="1.6"></circle>
+  </symbol>
+</svg>
